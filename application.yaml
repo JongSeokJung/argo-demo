@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: de0de8b64205a7912d3ed6f2330308719c395018
+    repoURL: https://github.com/JongSeokJung/argo-demo.git
     targetRevision: HEAD
     path: dev
   destination: 
